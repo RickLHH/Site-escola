@@ -1,0 +1,15 @@
+header {
+background-color:#383D58;
+color:white;
+
+.cabecalho-imagem{
+    color: width: 20%;
+}
+
+.cabecalho {
+    background-color:#383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+
+}
